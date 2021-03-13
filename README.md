@@ -87,7 +87,7 @@ Para um acompanhamento mais atualizado verifique a aba [Projeto](https://github.
 
 ## :clock10: Histórico de atualizações
 
-Para saber sobre as [versões](https://github.com/PedroHenry-Santos/Api_vendas/releases) deste código consulte o CHANGELOG detalhado.
+Para saber mais sobre as [versões](https://github.com/PedroHenry-Santos/Api_vendas/releases) deste código consulte o CHANGELOG detalhado.
 
 # :lock: Licença
 
