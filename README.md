@@ -78,8 +78,8 @@ Para isso basta seguir o [roteiro](https://github.com/PedroHenry-Santos/Api_vend
 Para um acompanhamento mais atualizado verifique a aba [Projeto](https://github.com/PedroHenry-Santos/Api_vendas/projects/1).
 
 -   [x] Modulo de Produtos                                     (:warning: Pode sofrer modificações)
--   [ ] Modulo de Usuários                                     (:construction: Em desenvolvimento)
--   [ ] Autenticação                                            (:construction: Em desenvolvimento)
+-   [x] Modulo de Usuários                                     (:warning: Pode sofrer modificações)
+-   [x] Autenticação                                            (:warning: Pode sofrer modificações)
 -   [ ] Gerenciamento de senhas                                (:construction: Em desenvolvimento)
 -   [ ] Gerenciamento de perfis de usuarios                    (:construction: Em desenvolvimento)
 -   [ ] Modulo de clientes                                     (:construction: Em desenvolvimento)
